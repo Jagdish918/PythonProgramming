@@ -35,7 +35,7 @@
     <main>
         <div class="container">
             <h1>Welcome to our E-Commerce Website</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mollis tortor a sapien congue consequat. Vivamus id ex vel felis euismod laoreet. In sed purus ipsum. Nullam blandit dui in turpis blandit, a auctor metus rutrum. Nullam non augue euismod, pretium mauris ut, bibendum mauris. In ut lectus vel nunc ultrices pharetra at at erat.</p>
+            <p>This is a e commerce website Here you can sign up your ecommerce account. </p>
         </div>
     </main>
     
